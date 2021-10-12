@@ -1,3 +1,8 @@
+import 'primereact/resources/themes/saga-blue/theme.css'
+import 'primereact/resources/primereact.min.css'
+import 'primeicons/primeicons.css'
+import 'primeflex/primeflex.css'
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React just checking
+          Learn React
         </a>
       </header>
     </div>
